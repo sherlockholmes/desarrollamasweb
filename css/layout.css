@@ -1,0 +1,91 @@
+
+.col1, .col2, .col3, .cols { float:left;}
+
+.col1{ width:585px;}
+.col2{ width:180px;}
+
+/*======= index.html =======*/
+#page_1 h1 a{ color:#bb0e0e}
+#page_1 { background-color:#C7E9E0}
+#page_1 .menu{ background:#bb0e0e}
+#page_1 .menu li a:hover, #page_2 .menu .active a{ color:#bb0e0e !important}
+#page_1 .menud li a:hover, #page_2 .menud .active a{ color:#fff !important}
+#page_1 a{ color:#fff}
+#page_1 .list1 li a:hover{ color:#bb0e0e !important}
+#page_1 p{ font-size: 1em; line-height: 1.4; color: #EEA8EA ; font-family: "Minion Pro", Palatino, Georgia, ; }
+#page_1 .font1{font-style: bold; color: #F5CBF2 ; font-family: "Minion Pro", Palatino, Georgia, ; }
+
+/*======= index.html =======*/
+#page_2 h1 a{ color:#6D2889}
+#page_2 { background-color:#4A1D59}
+#page_2 .menu{ background:#6D2889}
+#page_2 .menu li a:hover, #page_2 .menu .active a{ color:#6D2889 !important}
+#page_2 .menud li a:hover, #page_2 .menud .active a{ color:#fff !important}
+#page_2 a{ color:#fff}
+#page_2 .list1 li a:hover{ color:#6D2889 !important}
+
+#page_2 .col2{ width:230px;}
+#page_2 .col1{ width:210px;}
+#page_2 .pad_bot1{ padding-bottom:5px;}
+#page_2 .button{ background:#6D2889}
+#page_2 p{ font-size: 1em; line-height: 1.4; color: #EEA8EA ; font-family: "Minion Pro", Palatino, Georgia, ; }
+#page_2 .font1{font-style: bold; color: #F5CBF2 ; font-family: "Minion Pro", Palatino, Georgia, ; }
+
+/*======= index-1.html =======*/
+#page_3 { background-color:#BA0064}
+#page_3 h1 a{ color:#BA0064}
+#page_3 .menu{ background:#891055}
+#page_3 .menu li a:hover, #page_3 .menu .active a{ color:#BA0064 !important}
+#page_3 a{ color:#BA0064}
+#page_3 .marg_right1{ margin-right:12px;}
+
+#page_3 .col2{ width:230px;}
+#page_3 .col1{ width:210px;}
+#page_3 .pad_bot1{ padding-bottom:5px;}
+#page_3 .button{ background:#891055}
+#page_3 p{ font-size: 1em; line-height: 1.4; color: #EEA8EA ; font-family: "Minion Pro", Palatino, Georgia, ; }
+#page_3 .font1{font-style: bold; color: #F5CBF2 ; font-family: "Minion Pro", Palatino, Georgia, ; }
+/*======= index-2.html =======*/
+#page_4 { background-color:#FD4C00}
+#page_4 h1 a{ color:#FF7212}
+#page_4 .menu{ background:#FF7212}
+#page_4 .menu li a:hover, #page_4 .menu .active a{ color:#FF7212 !important}
+#page_4 a{ color:#FF7212}
+#page_4 .col1{ width:242px;}
+#page_4 .pad_bot1{ padding-bottom:5px;}
+#page_4 .button{ background:#FF7212}
+#page_4 p{ font-size: 1em; line-height: 1.4; color: #EEC9A0 ; font-family: "Minion Pro", Palatino, Georgia, ; }
+#page_4 .font1{font-style: bold; color: #F2D7B9 ; font-family: "Minion Pro", Palatino, Georgia, ; }
+/*======= index-3.html =======*/
+#page_5 { background-color:#FFB400}
+#page_5 h1 a{ color:#FFC200}
+#page_5 .menu{ background:#FFC200}
+#page_5 .menu li a:hover, #page_5 .menu .active a{ color:#FFC200 !important}
+#page_5 a{ color:#FFC200}
+#page_5 .pad_bot1{ padding-bottom:5px;}
+#page_5 .pad_top1{ padding-top:5px;}
+#page_5 p{ font-size: 1em; line-height: 1.4; color: #186876 ; font-family: "Minion Pro", Palatino, Georgia, ; }
+#page_5 .font1{font-style: bold; color: #061436 ; font-family: "Minion Pro", Palatino, Georgia, ; }
+/*======= index-4.html =======*/
+#page_6 { background-color:#97B400}
+#page_6 h1 a{ color:#B8D109}
+#page_6 .menu{ background:#B8D109}
+#page_6 .menu li a:hover, #page_6 .menu .active a{ color:#B8D109 !important}
+#page_6 a{ color:#157788 }
+#page_6 .col1{ width:242px;}
+#page_6 .pad_bot1{ padding-bottom:5px;}
+#page_6 .button{ background:#B8D109}
+#page_6 p{ font-size: 1em; line-height: 1.4; color: #523A0A ; font-family: "Minion Pro", Palatino, Georgia, ; }
+#page_6 .font1{font-style: bold; color: #C9A944 ; font-family: "Minion Pro", Palatino, Georgia, ; }
+/*======= index-5.html =======*/
+#page_7 { background-color:#97B400}
+#page_7 h1 a{ color:#B8D109}
+#page_7 .menu{ background:#B8D109}
+#page_7 .menu li a:hover, #page_7 .menu .active a{ color:#B8D109 !important}
+#page_7 a{ color:#157788 }
+#page_7 .col1{ width:242px;}
+#page_7 .pad_bot1{ padding-bottom:5px;}
+#page_7 .button{ background:#B8D109}
+#page_7 p{ font-size: 1em; line-height: 1.4; color: #523A0A ; font-family: "Minion Pro", Palatino, Georgia, ; }
+#page_7 .font1{font-style: bold; color: #C9A944 ; font-family: "Minion Pro", Palatino, Georgia, ; }
+/*======= index-6.html =======*/
